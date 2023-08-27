@@ -1,0 +1,615 @@
+.homepage,
+.homepage * {
+  box-sizing: border-box;
+}
+.homepage {
+  background: var(--neutral-color-00, #fdfdfd);
+  border-radius: 49.08px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 7.85px;
+  width: 1399px;
+  height: 1325px;
+  position: relative;
+  box-shadow: 0px 6.87px 45.15px 0px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+.header-desktop {
+  padding: 27.48px 127.6px 27.48px 127.6px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 1413.46px;
+  position: absolute;
+  left: 7px;
+  top: -10px;
+}
+.frame-47 {
+  display: flex;
+  flex-direction: row;
+  gap: 47.12px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame {
+  flex-shrink: 0;
+  width: 112.88px;
+  height: 39.26px;
+  position: relative;
+  overflow: hidden;
+}
+.group {
+  position: absolute;
+  left: 29.51px;
+  top: 32.03px;
+  overflow: visible;
+}
+.group2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.frame-2 {
+  display: flex;
+  flex-direction: row;
+  gap: 47.12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.home {
+  color: var(--primary-color-dark-blue, #003459);
+  text-align: left;
+  font: 700 15.71px/23.56px "SVN-Gilroy", sans-serif;
+  position: relative;
+}
+.category {
+  color: var(--primary-color-dark-blue, #003459);
+  text-align: left;
+  font: 700 15.71px/23.56px "SVN-Gilroy", sans-serif;
+  position: relative;
+}
+.about {
+  color: var(--primary-color-dark-blue, #003459);
+  text-align: left;
+  font: 700 15.71px/23.56px "SVN-Gilroy", sans-serif;
+  position: relative;
+}
+.contact {
+  color: var(--primary-color-dark-blue, #003459);
+  text-align: left;
+  font: 700 15.71px/23.56px "SVN-Gilroy", sans-serif;
+  position: relative;
+}
+.frame-46 {
+  display: flex;
+  flex-direction: row;
+  gap: 13.74px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-3 {
+  background: var(--neutral-color-00, #fdfdfd);
+  border-radius: 45.15px;
+  padding: 11.78px 19.63px 11.78px 15.71px;
+  display: flex;
+  flex-direction: row;
+  gap: 11.78px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 274.84px;
+  position: relative;
+}
+.u-search {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.search-something-here {
+  color: var(--neutral-color-40, #99a2a5);
+  text-align: left;
+  font: 500 13.74px/19.63px "SVN-Gilroy", sans-serif;
+  position: relative;
+}
+.button-l {
+  background: var(--primary-color-dark-blue, #003459);
+  border-radius: 55.95px;
+  padding: 13.74px 27.48px 9.82px 27.48px;
+  display: flex;
+  flex-direction: row;
+  gap: 9.82px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 43.19px;
+  position: relative;
+}
+.join-the-community {
+  color: var(--neutral-color-00, #fdfdfd);
+  text-align: left;
+  font: 700 15.71px/23.56px "SVN-Gilroy", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.frame-44 {
+  padding: 9.82px 7.85px 7.85px 7.85px;
+  display: flex;
+  flex-direction: row;
+  gap: 3.93px;
+  align-items: center;
+  justify-content: flex-end;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-48 {
+  display: flex;
+  flex-direction: row;
+  gap: 5.89px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-45 {
+  flex-shrink: 0;
+  width: 20.61px;
+  height: 20.61px;
+  position: relative;
+  overflow: hidden;
+}
+.frame2 {
+  width: 15.71px;
+  height: 15.71px;
+  position: absolute;
+  left: 2.94px;
+  top: 2.45px;
+  overflow: hidden;
+}
+.group3 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.vnd {
+  color: var(--primary-color-dark-blue-80, #002a48);
+  text-align: left;
+  font: 500 15.71px/22.58px "SVN-Gilroy", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.arrow-caret-down-sm {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.footer {
+  background: linear-gradient(
+    102.87deg,
+    rgba(252, 238, 213, 1) 6.169325485825539%,
+    rgba(252, 238, 213, 1) 75.14152526855469%,
+    rgba(255, 231, 186, 1) 100%
+  );
+  border-radius: 39.26px 39.26px 0px 0px;
+  width: 1413.46px;
+  height: 431.89px;
+  position: absolute;
+  left: 7px;
+  top: 820px;
+  overflow: hidden;
+}
+.frame-26 {
+  width: 1158.26px;
+  height: 39.26px;
+  position: absolute;
+  left: 127.6px;
+  top: 353.37px;
+}
+._2022-monito-all-rights-reserved {
+  color: var(--neutral-color-60, #667479);
+  text-align: left;
+  font: 500 13.74px/19.63px "SVN-Gilroy", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 9.82px;
+}
+.terms-of-service-privacy-policy {
+  color: var(--neutral-color-60, #667479);
+  text-align: left;
+  font: 500 13.74px/19.63px "SVN-Gilroy", sans-serif;
+  position: absolute;
+  left: 935.44px;
+  top: 9.82px;
+}
+.frame3 {
+  width: 112.88px;
+  height: 39.26px;
+  position: absolute;
+  left: 523.18px;
+  top: 0px;
+  overflow: hidden;
+}
+.group4 {
+  position: absolute;
+  left: 29.51px;
+  top: 32.03px;
+  overflow: visible;
+}
+.group5 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.frame-28 {
+  border-style: solid;
+  border-color: var(--neutral-color-20, #ccd1d2);
+  border-width: 0px 0px 0.98px 0px;
+  padding: 0px 0px 39.26px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 39.26px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 127.6px;
+  top: 78.53px;
+}
+.frame-23 {
+  background: var(--primary-color-dark-blue, #003459);
+  border-radius: 15.71px;
+  padding: 31.41px;
+  display: flex;
+  flex-direction: row;
+  gap: 19.63px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.register-now-so-you-don-t-miss-our-programs {
+  color: var(--neutral-color-00, #fdfdfd);
+  text-align: left;
+  font: 700 23.56px/35.34px "SVN-Gilroy", sans-serif;
+  position: relative;
+  width: 381.83px;
+}
+.frame-24 {
+  background: #ffffff;
+  border-radius: 13.74px;
+  padding: 11.78px;
+  display: flex;
+  flex-direction: row;
+  gap: 11.78px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 693.97px;
+  position: relative;
+}
+.input {
+  background: #ffffff;
+  border-radius: 7.85px;
+  border-style: solid;
+  border-color: var(--neutral-color-40, #99a2a5);
+  border-width: 0.98px;
+  padding: 13.74px 27.48px 13.74px 27.48px;
+  display: flex;
+  flex-direction: row;
+  gap: 9.82px;
+  align-items: center;
+  justify-content: flex-start;
+  flex: 1;
+  position: relative;
+}
+.type-something-here {
+  color: var(--neutral-color-40, #99a2a5);
+  text-align: left;
+  font: 500 13.74px/19.63px "SVN-Gilroy", sans-serif;
+  position: relative;
+  flex: 1;
+}
+.button-l2 {
+  background: var(--primary-color-dark-blue, #003459);
+  border-radius: 7.85px;
+  padding: 13.74px 27.48px 9.82px 27.48px;
+  display: flex;
+  flex-direction: row;
+  gap: 9.82px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 160px;
+  position: relative;
+}
+.click-here {
+  color: var(--neutral-color-00, #fdfdfd);
+  text-align: left;
+  font: 500 15.71px/23.56px "SVN-Gilroy", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.frame-27 {
+  display: flex;
+  flex-direction: row;
+  gap: 551.64px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-22 {
+  display: flex;
+  flex-direction: row;
+  gap: 58.89px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.home2 {
+  color: var(--neutral-color-100, #00171f);
+  text-align: left;
+  font: 500 15.71px/23.56px "SVN-Gilroy", sans-serif;
+  position: relative;
+}
+.category2 {
+  color: var(--neutral-color-100, #00171f);
+  text-align: left;
+  font: 500 15.71px/23.56px "SVN-Gilroy", sans-serif;
+  position: relative;
+}
+.about2 {
+  color: var(--neutral-color-100, #00171f);
+  text-align: left;
+  font: 500 15.71px/23.56px "SVN-Gilroy", sans-serif;
+  position: relative;
+}
+.contact2 {
+  color: var(--neutral-color-100, #00171f);
+  text-align: left;
+  font: 500 15.71px/23.56px "SVN-Gilroy", sans-serif;
+  position: relative;
+}
+.frame-25 {
+  display: flex;
+  flex-direction: row;
+  gap: 39.26px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.facebook-negative {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.twitter-negative {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.instagram-negative {
+  flex-shrink: 0;
+  width: 23.56px;
+  height: 23.56px;
+  position: relative;
+  overflow: hidden;
+}
+.group6 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.you-tube-negative {
+  flex-shrink: 0;
+  width: 23.56px;
+  height: 23.56px;
+  position: relative;
+  overflow: hidden;
+}
+.lozenge {
+  position: absolute;
+  left: 0px;
+  top: 3.49px;
+  overflow: visible;
+}
+.herro-banner {
+  background: var(
+    --linear,
+    linear-gradient(
+      102.87deg,
+      rgba(252, 238, 213, 1) 6.169325485825539%,
+      rgba(252, 238, 213, 1) 75.14152526855469%,
+      rgba(255, 231, 186, 1) 100%
+    )
+  );
+  border-radius: 0px 0px 39.26px 39.26px;
+  width: 1413.46px;
+  height: 682.19px;
+  position: absolute;
+  left: 7px;
+  top: 112px;
+  overflow: hidden;
+}
+.rectangle-1 {
+  background: var(--primary-color-dark-blue, #003459);
+  border-radius: 97.18px;
+  width: 623.3px;
+  height: 623.3px;
+  position: absolute;
+  left: 686.33px;
+  top: 263.06px;
+  transform-origin: 0 0;
+  transform: rotate(9.355deg) scale(1, 1);
+}
+.rectangle-2 {
+  background: var(--secondary-color-mon-yellow, #f7dba7);
+  border-radius: 97.18px;
+  width: 623.3px;
+  height: 623.3px;
+  position: absolute;
+  left: 849.72px;
+  top: 176.68px;
+  transform-origin: 0 0;
+  transform: rotate(25.23deg) scale(1, 1);
+}
+.rectangle-8 {
+  background: var(--secondary-color-mon-yellow, #f7dba7);
+  border-radius: 97.18px;
+  opacity: 0.4000000059604645;
+  width: 623.3px;
+  height: 623.3px;
+  position: absolute;
+  left: 430.26px;
+  top: 553.61px;
+  transform-origin: 0 0;
+  transform: rotate(56.47deg) scale(1, 1);
+}
+.rectangle-9 {
+  background: var(--secondary-color-mon-yellow, #f7dba7);
+  border-radius: 97.18px;
+  width: 623.3px;
+  height: 623.3px;
+  position: absolute;
+  left: -63.14px;
+  top: -684.16px;
+  transform-origin: 0 0;
+  transform: rotate(25.23deg) scale(1, 1);
+}
+.rectangle-3 {
+  background: var(--secondary-color-mon-yellow, #f7dba7);
+  border-radius: 19.63px;
+  width: 65.87px;
+  height: 65.87px;
+  position: absolute;
+  left: 138.01px;
+  top: 160px;
+  transform-origin: 0 0;
+  transform: rotate(25.23deg) scale(1, 1);
+}
+.rectangle-5 {
+  background: #f7dba7;
+  border-radius: 3.93px;
+  width: 14.36px;
+  height: 14.36px;
+  position: absolute;
+  left: 748.15px;
+  top: 145.27px;
+  transform-origin: 0 0;
+  transform: rotate(20.792deg) scale(1, 1);
+}
+.rectangle-6 {
+  background: #f7dba7;
+  border-radius: 8.83px;
+  width: 26.99px;
+  height: 26.99px;
+  position: absolute;
+  left: 714.59px;
+  top: 206.8px;
+  transform-origin: 0 0;
+  transform: rotate(-22.85deg) scale(1, 1);
+}
+.rectangle-7 {
+  background: #002a48;
+  border-radius: 5.89px;
+  width: 21.08px;
+  height: 21.08px;
+  position: absolute;
+  left: 713.6px;
+  top: 219.52px;
+  transform-origin: 0 0;
+  transform: rotate(-43.005deg) scale(1, 1);
+}
+.good-humored-woman-holds-dog-laughing-pink-background-emotional-sort-haired-girl-grey-hoodie-poses-with-corgi-isolated-1 {
+  width: 944px;
+  height: 693px;
+  position: absolute;
+  left: 530px;
+  top: 84px;
+}
+.one-more-friend {
+  color: var(--primary-color-dark-blue-80, #002a48);
+  text-align: left;
+  font: 400 58.89px/66.75px "SVN-Gilroy", sans-serif;
+  position: absolute;
+  left: 127.6px;
+  top: 176.68px;
+}
+.thousands-more-fun {
+  color: var(--primary-color-dark-blue-80, #002a48);
+  text-align: left;
+  font: 700 45.15px/58.89px "SVN-Gilroy", sans-serif;
+  position: absolute;
+  left: 127.6px;
+  top: 247.36px;
+}
+.having-a-pet-means-you-have-more-joy-a-new-friend-a-happy-person-who-will-always-be-with-you-to-have-fun-we-have-200-different-pets-that-can-meet-your-needs {
+  color: var(--neutral-color-80, #242b33);
+  text-align: left;
+  font: 500 15.71px/23.56px "SVN-Gilroy", sans-serif;
+  position: absolute;
+  left: 127.6px;
+  top: 329.81px;
+  width: 471.15px;
+}
+.button-l3 {
+  background: var(--primary-color-dark-blue, #003459);
+  border-radius: 55.95px;
+  padding: 13.74px 27.48px 9.82px 27.48px;
+  display: flex;
+  flex-direction: row;
+  gap: 9.82px;
+  align-items: center;
+  justify-content: center;
+  width: 160px;
+  position: absolute;
+  left: 305.27px;
+  top: 433.86px;
+}
+.button-l4 {
+  border-radius: 55.95px;
+  border-style: solid;
+  border-color: var(--primary-color-dark-blue, #003459);
+  border-width: 1.47px;
+  padding: 13.74px 27.48px 9.82px 27.48px;
+  display: flex;
+  flex-direction: row;
+  gap: 7.85px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 127.6px;
+  top: 433.86px;
+}
+.view-intro {
+  color: var(--primary-color-dark-blue, #003459);
+  text-align: left;
+  font: 500 15.71px/23.56px "SVN-Gilroy", sans-serif;
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.media-play-circle {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
